@@ -41,5 +41,5 @@ Harmonia is a compassionate and inclusive mental health and emotional support ch
 # 🤖Try it out
 - https://huggingface.co/spaces/Nadaazakaria/Harmonia
 # Demo Video
-- **Youtube:** https://youtu.be/2AYAQb1-T-c
+- **Youtube:** https://youtu.be/8Ahmof1izfA
 - **Loom:** https://www.loom.com/share/a0ffa180840f41a4abaab8869530521c?sid=aa5e92ad-5c99-4211-a09c-47c6ba3fe0c6
