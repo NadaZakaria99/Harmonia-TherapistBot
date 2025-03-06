@@ -38,3 +38,5 @@ Harmonia is a compassionate and inclusive mental health and emotional support ch
 - **Tools:**
   - **Google Gemini API:** For generating responses using the gemini-2.0-flash-exp model.
   - **Hugging Face Spaces:** For deploying the application (optional).
+# 🤖Try it out
+- https://huggingface.co/spaces/Nadaazakaria/Harmonia
