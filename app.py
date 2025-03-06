@@ -8,13 +8,9 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.prompts import PromptTemplate
 import gradio as gr
 
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
-
-if not GOOGLE_API_KEY:
-    raise ValueError("GOOGLE_API_KEY not found in environment variables.")
-
 # Set Google API Key
-os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
+if "GOOGLE_API_KEY" not in os.environ:
+    os.environ["GOOGLE_API_KEY"] = "your_google_api_key"
 
 # Initialize LLM
 llm = ChatGoogleGenerativeAI(
